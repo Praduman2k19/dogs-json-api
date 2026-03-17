@@ -8,7 +8,7 @@ The goal of this project is to provide basic CRUD functionality (Create, Read, U
 
 ## Live URL
 
-(Add your deployed link here)
+https://dogs-json-ivnc5reac-praduman2k19s-projects.vercel.app/api/dogs
 
 ---
 
