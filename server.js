@@ -9,7 +9,7 @@ app.use(cors());
 const dogRoutes = require("./routes/dogRoutes");
 app.use("/api/dogs", dogRoutes);
 
-const PORT = process.env.PORT || 5987;
+const PORT = process.env.PORT || 5000;
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
